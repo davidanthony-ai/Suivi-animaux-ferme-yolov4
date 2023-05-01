@@ -1,6 +1,6 @@
 # Suivi d'animaux dans une ferme (moutons et poulets)
 
-Ce projet contient 3 fichiers scripts permettant de détecter sur une image des moutons et les poulets. Ces fichiers permettent aussi de les suivre et de les compter sur une video ou une camera live. Ce projet utilise Yolov4, OpenCV et un centroidtracker.
+Ce projet contient des fichiers scripts permettant de détecter sur une image des moutons et les poulets. Ces fichiers permettent aussi de les suivre et de les compter sur une video ou une camera live. Ce projet utilise darknet,Yolov4, OpenCV et un centroidtracker.
 
 ## Demo 
 
@@ -85,6 +85,12 @@ pip install -r requirements.txt
 
 Les "Pull requests" sont les bienvenues. Pour les changements majeurs, veuillez d'abord ouvrir une question pour discuter de ce que vous aimeriez changer.
 Veillez à mettre à jour les tests le cas échéant.
+
+## Reference
+
+Yolo
+https://pjreddie.com/darknet/yolo/
+
 
 ## License
 
