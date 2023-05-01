@@ -60,9 +60,16 @@ python -m venv .venv
 ```
 
 Activer ensuite l'environnement virtuel
-
+```bash
+.venv\Scripts\activate
+```
 
 * Installation des packages:les packages nécessaires sur le nouvel environnement
+Mettre à jour la version de pip :
+```bash
+python.exe -m pip install --upgrade pip
+```
+Ensuite installer les librairies
 ```bash
 pip install -r requirements.txt
 ```

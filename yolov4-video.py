@@ -79,11 +79,11 @@ layers_names_all = network.getLayerNames()
 
 # # Check point
 # print()
-print(layers_names_all)
+# print(layers_names_all)
 
 # Getting only output layers' names that we need from YOLO v3 algorithm
 # with function that returns indexes of layers with unconnected outputs
-layers_names_output = [layers_names_all[i[0] - 1] for i in network.getUnconnectedOutLayers()]
+layers_names_output = [layers_names_all[i - 1] for i in network.getUnconnectedOutLayers()]
 # layers_names_output = [layers_names_all[i - 1] for i in network.getUnconnectedOutLayers()]
 # # Check point
 # print()
