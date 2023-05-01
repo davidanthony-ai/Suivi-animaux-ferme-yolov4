@@ -1,26 +1,33 @@
 # Suivi d'animaux dans une ferme (moutons et poulets)
 
-Ce projet contient 3 fichiers scripts permettant de détecter sur une image des moutons et les poulets. Ces fichiers permettent aussi de les suivre et de les compter sur une video ou une camera live. Ce projet utilise Yolov4, OpenCV et un centroidtracker.
+Ce projet contient des fichiers scripts permettant de détecter sur une image des moutons et les poulets. Ces fichiers permettent aussi de les suivre et de les compter sur une video ou une camera live. Ce projet utilise darknet,Yolov4, OpenCV et un centroidtracker.
 
 ## Demo 
 
 ## Détection sur une image
 Detection de poulets sur une image d'une ferme
+
 <img src="https://user-images.githubusercontent.com/125910035/235456953-fa06e2bc-25f0-465f-8ea6-774c324698a3.jpg" width="700" height="700">
 
+
 Detection avec des figurines
+
 
 <img src="https://user-images.githubusercontent.com/125910035/235456840-45f25691-6631-4264-830f-17ee9a5006be.jpg" width="700" height="700">
 
 Detection de moutons
+
 
 <img src="https://user-images.githubusercontent.com/125910035/235457739-2985db6f-754c-4cb4-99ea-9d717be2d3d8.jpg" width="700" height="700">
 
 
 ## Détection sur une video
 
+https://www.dropbox.com/s/gnpkzppzk1fzdss/result-pred.mp4?dl=0
 
+https://www.dropbox.com/s/sr4r3zyxftlfkyx/video-poulet.mp4?dl=0
 
+https://www.dropbox.com/s/t5ke8t541qa43mm/video-mouton.mp4?dl=0
 
 
 ## Requirements
@@ -85,6 +92,12 @@ pip install -r requirements.txt
 
 Les "Pull requests" sont les bienvenues. Pour les changements majeurs, veuillez d'abord ouvrir une question pour discuter de ce que vous aimeriez changer.
 Veillez à mettre à jour les tests le cas échéant.
+
+## Reference
+
+Yolo
+https://pjreddie.com/darknet/yolo/
+
 
 ## License
 
