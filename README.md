@@ -23,7 +23,9 @@ Detection de moutons
 
 ## Détection sur une video
 
-![](https://github.com/davidanthony-ai/Suivi-animaux-ferme-yolov4/blob/154abffc3d4bb8d39b13cc851a6b390f4609698b/videos/video-poulet.mp4)
+
+https://user-images.githubusercontent.com/125910035/235467534-1895b8b4-fa3e-4e8a-9cfc-13bc5d3d1ce3.mp4
+
 
 
 
