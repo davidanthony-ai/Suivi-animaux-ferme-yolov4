@@ -15,9 +15,7 @@ Ce projet contient 3 fichiers scripts permettant de détecter sur une image des 
 
 ## Détection sur une video
 
-https://user-images.githubusercontent.com/125910035/235457785-eac2bc5c-c97f-45be-8bd4-f3dbd1ce7d45.mp4
-
-https://user-images.githubusercontent.com/125910035/235457814-800f2cac-e96a-46b0-bf39-844207bca1d2.mp4
+<video src='https://user-images.githubusercontent.com/125910035/235460894-cb664eda-c59e-4747-b07a-15750be6fae6.mp4' />
 
 
 
