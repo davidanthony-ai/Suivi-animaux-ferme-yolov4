@@ -6,7 +6,19 @@ Ce projet contient 3 fichiers scripts permettant de détecter sur une image des 
 
 ## Détection sur une image
 
+![pred_2](https://user-images.githubusercontent.com/125910035/235456953-fa06e2bc-25f0-465f-8ea6-774c324698a3.jpg)
+
+![pred_9](https://user-images.githubusercontent.com/125910035/235456840-45f25691-6631-4264-830f-17ee9a5006be.jpg)
+
+![PHOTO-2023-02-12-00-07-58](https://user-images.githubusercontent.com/125910035/235457739-2985db6f-754c-4cb4-99ea-9d717be2d3d8.jpg)
+
+
 ## Détection sur une video
+
+https://user-images.githubusercontent.com/125910035/235457785-eac2bc5c-c97f-45be-8bd4-f3dbd1ce7d45.mp4
+
+https://user-images.githubusercontent.com/125910035/235457814-800f2cac-e96a-46b0-bf39-844207bca1d2.mp4
+
 
 
 ## Requirements
