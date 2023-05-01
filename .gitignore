@@ -1,0 +1,11 @@
+# ignorer tous les fichiers de l'environnment
+.venv/*
+# ignorer les fichiers poids
+.weights
+
+# ignorer les fichiers videos
+.mp4
+.mov
+
+# ignorer les fichiers images
+.jpg
