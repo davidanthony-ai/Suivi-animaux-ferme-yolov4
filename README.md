@@ -23,10 +23,9 @@ Detection de moutons
 
 ## Détection sur une video
 
+https://www.dropbox.com/s/t5ke8t541qa43mm/video-mouton.mp4?dl=0
 
-https://user-images.githubusercontent.com/125910035/235467534-1895b8b4-fa3e-4e8a-9cfc-13bc5d3d1ce3.mp4
-
-
+https://www.dropbox.com/s/t5ke8t541qa43mm/video-mouton.mp4?dl=0
 
 
 ## Requirements
