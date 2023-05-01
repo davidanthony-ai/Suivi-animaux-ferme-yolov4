@@ -23,7 +23,7 @@ Detection de moutons
 
 ## Détection sur une video
 
-https://www.dropbox.com/s/t5ke8t541qa43mm/video-mouton.mp4?dl=0
+https://www.dropbox.com/s/sr4r3zyxftlfkyx/video-poulet.mp4?dl=0
 
 https://www.dropbox.com/s/t5ke8t541qa43mm/video-mouton.mp4?dl=0
 
