@@ -5,17 +5,21 @@ Ce projet contient 3 fichiers scripts permettant de détecter sur une image des 
 ## Demo 
 
 ## Détection sur une image
+Detection de poulets sur une image d'une ferme
+<img src="https://user-images.githubusercontent.com/125910035/235456953-fa06e2bc-25f0-465f-8ea6-774c324698a3.jpg" width="700" height="700">
 
-![pred_2](https://user-images.githubusercontent.com/125910035/235456953-fa06e2bc-25f0-465f-8ea6-774c324698a3.jpg)
+Detection avec des figurines
 
-![pred_9](https://user-images.githubusercontent.com/125910035/235456840-45f25691-6631-4264-830f-17ee9a5006be.jpg)
+<img src="https://user-images.githubusercontent.com/125910035/235456840-45f25691-6631-4264-830f-17ee9a5006be.jpg" width="700" height="700">
 
-![PHOTO-2023-02-12-00-07-58](https://user-images.githubusercontent.com/125910035/235457739-2985db6f-754c-4cb4-99ea-9d717be2d3d8.jpg)
+Detection de moutons
+
+<img src="https://user-images.githubusercontent.com/125910035/235457739-2985db6f-754c-4cb4-99ea-9d717be2d3d8.jpg" width="700" height="700">
 
 
 ## Détection sur une video
 
-<video src='https://user-images.githubusercontent.com/125910035/235460894-cb664eda-c59e-4747-b07a-15750be6fae6.mp4' />
+
 
 
 
