@@ -1,6 +1,16 @@
 # Suivi d'animaux dans une ferme (moutons et poulets)
 
-Ce projet contient des fichiers scripts permettant de détecter sur une image des moutons et les poulets. Ces fichiers permettent aussi de les suivre et de les compter sur une video ou une camera live. Ce projet utilise darknet,Yolov4, OpenCV et un centroidtracker.
+Ce projet utilise le transfert-learning pour entrainer avec des nouvelles images personnelles des réseaux de neurones convolutionnels YOLO v4 déjà entrainés sur le jeu de données COCO. Il permet la surveillance des moutons et des poulets dans une ferme (détection, comptage,suivi)
+- Collecte-labéllisation des images (4000 images téléchargées sur openimage dataset v7 googleapis) en format YOLO
+- Lecture des images en RGB et transformation en Blob
+- Chargement du réseau de neurones convolutionnels YOLO V4-darknet
+- Entrainement (CUDA)-Validation du modèle(Score MAP) et récupération des poids 
+- Implémentation du 'Non-maximum Suppression' pour réduire les faibles prédictions
+- Mise en place d'un tracker (centroides)
+- Affichage de la détection avec les noms des classes
+-  Mise en place d'une application web qui permet de choisir une nouvelle image et de montrer la prédiction des classes sur l'image
+-  Outils-Bibliothèques : OpenCv, YOLO, darknet, CUDA (modélisation par GPU-CPU), PyQt user interface (APP WEB), LABELIMG(labelling),
+    OIDv4 toolkit(Téléchargement des images) 
 
 ## Demo 
 
